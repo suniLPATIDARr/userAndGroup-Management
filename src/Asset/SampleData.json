@@ -1,0 +1,7 @@
+{
+  "employees": [
+    { "name": "Shyam", "email": "shyamjaiswal@gmail.com","age":24 },
+    { "name": "Bob", "email": "bob32@gmail.com" ,"age":25 },
+    { "name": "Jai", "email": "jai87@gmail.com" ,"age":34 }
+  ]
+}
